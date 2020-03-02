@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1582754367 source:c:\cpp\projects\class_date\main.cpp
+	<iostream>
+	"Date2.h"
+
+1582743908 c:\cpp\projects\class_date\include\date2.h
+
+1582754343 source:c:\cpp\projects\class_date\src\date2.cpp
+	<iostream>
+	"Date2.h"
+
+1582584673 source:c:\cpp\projects\class_date\src\time2.cpp
+	"Time2.h"
+
+1582743545 c:\cpp\projects\class_date\include\time2.h
+
