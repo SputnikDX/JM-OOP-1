@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1582754367 source:c:\cpp\projects\class_date\main.cpp
+1583186347 source:c:\cpp\projects\class_date\main.cpp
 	<iostream>
 	"Date2.h"
+	"Time2.h"
 
 1582743908 c:\cpp\projects\class_date\include\date2.h
 
@@ -9,8 +10,11 @@
 	<iostream>
 	"Date2.h"
 
-1582584673 source:c:\cpp\projects\class_date\src\time2.cpp
+1583186306 source:c:\cpp\projects\class_date\src\time2.cpp
 	"Time2.h"
+	<iostream>
+	<iomanip>
 
-1582743545 c:\cpp\projects\class_date\include\time2.h
+1583185421 c:\cpp\projects\class_date\include\time2.h
+	<iostream>
 
